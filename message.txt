@@ -1,0 +1,1 @@
+Microsoft Endpoints are updated to Okta successfully!

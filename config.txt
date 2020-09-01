@@ -1,0 +1,4 @@
+[Okta Variables]
+url=https://dev-121295.oktapreview.com/
+token=009z2iVU2cjRZkBOiQOktgZgpvy7G8Eo5Lu0hwCyQy
+zonename=LegacyIpZone
